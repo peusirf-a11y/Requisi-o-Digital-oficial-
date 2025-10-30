@@ -1,0 +1,5 @@
+{
+  "name": "EPI Requisition System",
+  "description": "A comprehensive digital system for managing Personal Protective Equipment (EPI) requisitions, catering to various roles like collaborators, supervisors, administrators, and warehouse staff. It streamlines the process from request creation to delivery.",
+  "requestFramePermissions": []
+}
